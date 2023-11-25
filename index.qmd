@@ -1,7 +1,20 @@
 ---
-title: "Datadoulla.github.io"
+title: "GADO DANZAMA A. B."
+image: profile.png
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/doullagado/
+    - icon: github
+      text: GitHub
+      href: https://github.com/Datadoulla
+    - icon: envelope-at-fill
+      text: Email
+      href: tomail:doullagado@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

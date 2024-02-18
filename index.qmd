@@ -1,6 +1,6 @@
 ---
 title: "GADO DANZAMA A. B."
-image: profile.png
+image: plante.png
 toc: false
 about: 
   template: trestles
@@ -15,6 +15,6 @@ about:
       href: https://github.com/Datadoulla
     - icon: envelope-at-fill
       text: Email
-      href: tomail:doullagado@gmail.com
+      href: doullagado@gmail.com
 ---
 

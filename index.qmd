@@ -15,7 +15,7 @@ about:
       href: https://github.com/Datadoulla
     - icon: envelope-at-fill
       text: Email
-      href: mailto:doullagado@gmail.com
+      href: tomail:doullagado@gmail.com
 ---
 
 ## Coming soon..

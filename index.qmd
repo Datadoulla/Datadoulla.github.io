@@ -1,6 +1,6 @@
 ---
 title: "GADO DANZAMA A. B."
-image: plante.png
+#image: plante.png
 toc: false
 about: 
   template: trestles

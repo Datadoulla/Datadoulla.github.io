@@ -1,5 +1,5 @@
 ---
-title: "CV"
+#title: "CV"
 engine: knitr
 freeze: false
 cv:

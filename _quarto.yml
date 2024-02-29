@@ -4,16 +4,16 @@ project:
 
 website:
   title: "GADO DANZAMA"
-  #favicon: bigfav.png
+  favicon: image/bigfav.png
   navbar:
-    logo: bigfav.png
+    logo: image/bigfav.png
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Me
+        text: CV
   page-footer: 
-    background: dark
+    #background: dark
     left:
       - "2023, GADO A. Bachir"
     right: 

@@ -4,18 +4,31 @@ project:
 
 website:
   title: "GADO DANZAMA"
+  #favicon: bigfav.png
   navbar:
+    logo: bigfav.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about.qmd
+        text: Me
+  page-footer: 
+    background: dark
+    left:
+      - "2023, GADO A. Bachir"
+    right: 
+      - icon: github
+        href: https://github.com/Datadoulla
+      - icon: linkedin
+        href: https://www.linkedin.com/in/doullagado/
 format:
   html:
     theme:
-      light: Flatly
-      dark: solar
-    css: styles.css
+      - cosmo
+      - styles.scss
+      #light: Flatly
+      #dark: solar
+    #css: styles.css
     toc: true
     page-layout: full
 
